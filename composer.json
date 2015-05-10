@@ -1,0 +1,22 @@
+{
+  "name": "dustinleblanc/pt",
+  "description": "Wrapper for Pivotal Tracker API V5",
+  "require-dev": {
+    "phpspec/phpspec": "~2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "DustinLeblanc\\PivotalTracker\\": "src/PivotalTracker"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dustin LeBlanc",
+      "email": "dustin@singlebrook.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "~5.2"
+  }
+}
