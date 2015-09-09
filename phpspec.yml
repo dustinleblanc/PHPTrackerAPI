@@ -1,4 +1,5 @@
 suites:
     tracker_suite:
-        namespace: DustinLeblanc\PivotalTracker
-        psr4_prefix: DustinLeblanc\PivotalTracker
+        namespace: DustinLeblanc\Pivotal
+        psr4_prefix: DustinLeblanc\Pivotal
+        src_path: src
